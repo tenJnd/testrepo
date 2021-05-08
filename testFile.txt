@@ -1,1 +1,4 @@
 bsal bla bla
+
+další řádek z linuxu
+
